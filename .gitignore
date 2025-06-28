@@ -1,0 +1,27 @@
+# Python bytecode
+**/*.py[cod]
+**/__pycache__/
+
+# Django migrations (if you truly want to ignore them)
+**/migrations/*.py
+**/migrations/*.pyc
+
+# SQLite journal files
+*.sqlite3-journal
+
+# pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtualenvs named differently
+env/
+.env/
+
+.env
+
+# OS/editor files
+Thumbs.db
+ehthumbs.db
+*.swp
+*~
