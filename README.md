@@ -1,5 +1,9 @@
 # Employee Management System
 
+## Prerequisites
+### - Python3
+### - Pip
+
 ## 1. Clone the repository
 ### https://github.com/alexa-coder/Employee-management-system-backend.git
 
