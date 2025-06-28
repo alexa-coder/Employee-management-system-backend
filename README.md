@@ -1,7 +1,7 @@
 # Employee Management System
 
 ## 1. Clone the repository
-### https://github.com/alexa-coder/Employee-management-system-backend
+### https://github.com/alexa-coder/Employee-management-system-backend.git
 
 ## 2. Install the required dependencies
 ### pip install -r requirements.txt
